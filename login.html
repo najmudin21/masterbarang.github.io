@@ -16,9 +16,9 @@ if (isset($_POST['login'])) {
     if ($hitung > 0) {
         $_SESSION['log'] = 'true';
         // echo 'data ada';
-        header('location:index.php');
+        header('location:index.html');
     } else {
-        header('location:login.php');
+        header('location:login.html');
         // echo 'tidak ada data';
     };
 };
