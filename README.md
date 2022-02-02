@@ -1,2 +1,0 @@
-# prg3_masterbarang
-UAS_PEMROGRAMAN 3_MASTER BARANG
